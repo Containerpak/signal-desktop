@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:164a9b869cc5bb6ea24a4520952882e12104db93f3652723a00382a242928ae6 https://updates.signal.org/desktop/apt/pool/s/signal-desktop/signal-desktop_8.24.1_amd64.deb /tmp/source
+ADD --checksum=sha256:bb071ec2433305d5ed8ec6572b7aceb14b75bf2dd36b2b13b957d567e3f4124e https://updates.signal.org/desktop/apt/pool/s/signal-desktop/signal-desktop_8.25.0_amd64.deb /tmp/source
 
 FROM ghcr.io/containerpak/gtk3:main
 
