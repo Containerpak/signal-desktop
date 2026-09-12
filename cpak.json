@@ -3,7 +3,7 @@
   "manifest_version": "3.0",
   "name": "Signal Desktop",
   "description": "Private messaging from your desktop.",
-  "version": "8.26.0",
+  "version": "8.27.0",
   "image": "ghcr.io/containerpak/signal-desktop@sha256:01ddac3bb6fa67b769894898a5cdba9e993e65e7b13dcf233820a43815111b20",
   "binaries": [
     "/usr/bin/signal-desktop"
