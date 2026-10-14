@@ -4,7 +4,7 @@
   "name": "Signal Desktop",
   "description": "Private messaging from your desktop.",
   "version": "8.27.0",
-  "image": "ghcr.io/containerpak/signal-desktop@sha256:cda1814e874375d3cbce598c833c6a4b8eed1d8b898896d8203c74b5b93647eb",
+  "image": "ghcr.io/containerpak/signal-desktop@sha256:527bddb17c070dcab43448663a735462d1deddaa87375f3a1e90e548690158b8",
   "binaries": [
     "/usr/bin/signal-desktop"
   ],
